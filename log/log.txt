@@ -1,0 +1,66 @@
+base.py-[2022-07-02 09:08:20][INFO]Scheduler started
+base.py-[2022-07-02 09:08:21][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:08:21][INFO]软件开启
+mainwindow.py-[2022-07-02 09:08:29][INFO]清空数据库
+mainwindow.py-[2022-07-02 09:08:35][INFO]清空数据库
+base.py-[2022-07-02 09:08:37][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:37][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:37][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:08:38][INFO]导入文件C:/Users/Lu Yifan/pyside6/backup/1418.ldy成功
+mainwindow.py-[2022-07-02 09:08:45][INFO]切换为阴雨天模式
+base.py-[2022-07-02 09:08:45][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:45][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:45][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:08:46][INFO]从阴雨天模式切回正常模式
+base.py-[2022-07-02 09:08:46][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:46][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:46][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:08:47][INFO]切换为调休模式
+base.py-[2022-07-02 09:08:47][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:47][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:08:47][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:09:02][INFO]导出文件至C:/Users/Lu Yifan/pyside6/backup/1419.ldy
+mainwindow.py-[2022-07-02 09:09:07][INFO]从调休模式切换回正常模式
+mainwindow.py-[2022-07-02 09:09:07][INFO]清空数据库
+mainwindow.py-[2022-07-02 09:09:12][INFO]清空数据库
+mainwindow.py-[2022-07-02 09:09:14][INFO]切换为调休模式
+base.py-[2022-07-02 09:09:14][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:09:14][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:09:14][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:09:14][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:09:14][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:09:14][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:09:14][INFO]导入文件C:/Users/Lu Yifan/pyside6/backup/1419.ldy成功
+mainwindow.py-[2022-07-02 09:09:28][INFO]从调休模式切换回正常模式
+mainwindow.py-[2022-07-02 09:09:28][INFO]清空数据库
+mainwindow.py-[2022-07-02 09:09:41][INFO]添加任务('111', '常规铃声', 'C:/Users/Lu Yifan/pyside6/music/012.上课第一遍铃21秒.mp3', 31, 0)成功
+base.py-[2022-07-02 09:09:41][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 09:09:47][INFO]修改任务['111', '常规铃声', 'C:/Users/Lu Yifan/pyside6/music/012.上课第一遍铃21秒.mp3', 31, 0]->('111', '常规铃声', 'C:/Users/Lu Yifan/pyside6/music/012.上课第一遍铃21秒.mp3', 2, 0)成功
+base.py-[2022-07-02 09:09:47][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+base.py-[2022-07-02 09:09:49][INFO]Scheduler has been shut down
+mainwindow.py-[2022-07-02 09:09:49][INFO]软件关闭
+base.py-[2022-07-02 11:22:18][INFO]Scheduler started
+base.py-[2022-07-02 11:22:18][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 11:22:18][INFO]软件开启
+__init__.py-[2022-07-02 11:22:26][INFO]QSS file successfully loaded.
+__init__.py-[2022-07-02 11:22:26][INFO]Found application patches to be applied.
+base.py-[2022-07-02 11:22:29][INFO]Scheduler has been shut down
+mainwindow.py-[2022-07-02 11:22:29][INFO]软件关闭
+base.py-[2022-07-02 11:24:38][INFO]Scheduler started
+base.py-[2022-07-02 11:24:38][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 11:24:38][INFO]软件开启
+base.py-[2022-07-02 11:24:53][INFO]Scheduler has been shut down
+mainwindow.py-[2022-07-02 11:24:53][INFO]软件关闭
+base.py-[2022-07-02 11:28:02][INFO]Scheduler started
+base.py-[2022-07-02 11:28:02][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 11:28:02][INFO]软件开启
+base.py-[2022-07-02 11:29:45][INFO]Scheduler started
+base.py-[2022-07-02 11:29:45][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 11:29:45][INFO]软件开启
+base.py-[2022-07-02 11:29:53][INFO]Scheduler has been shut down
+mainwindow.py-[2022-07-02 11:29:53][INFO]软件关闭
+base.py-[2022-07-02 11:31:10][INFO]Scheduler started
+base.py-[2022-07-02 11:31:10][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 11:31:10][INFO]软件开启
+base.py-[2022-07-02 11:31:11][INFO]Scheduler has been shut down
+mainwindow.py-[2022-07-02 11:31:11][INFO]软件关闭
