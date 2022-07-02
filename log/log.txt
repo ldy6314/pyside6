@@ -64,3 +64,13 @@ base.py-[2022-07-02 11:31:10][INFO]Added job "MainWindow.play_music_by_schedules
 mainwindow.py-[2022-07-02 11:31:10][INFO]软件开启
 base.py-[2022-07-02 11:31:11][INFO]Scheduler has been shut down
 mainwindow.py-[2022-07-02 11:31:11][INFO]软件关闭
+base.py-[2022-07-02 13:11:13][INFO]Scheduler started
+base.py-[2022-07-02 13:11:13][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 13:11:13][INFO]软件开启
+__init__.py-[2022-07-02 13:11:39][INFO]QSS file successfully loaded.
+__init__.py-[2022-07-02 13:11:39][INFO]Found application patches to be applied.
+base.py-[2022-07-02 13:11:54][INFO]Scheduler has been shut down
+mainwindow.py-[2022-07-02 13:11:54][INFO]软件关闭
+base.py-[2022-07-02 13:12:07][INFO]Scheduler started
+base.py-[2022-07-02 13:12:07][INFO]Added job "MainWindow.play_music_by_schedules" to job store "default"
+mainwindow.py-[2022-07-02 13:12:07][INFO]软件开启
